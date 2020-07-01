@@ -1,20 +1,26 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
+####Latest Version: v7.0
+#####Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
-![screenshot](images/screenshot.png "screenshot")
+#####Light and Dark Theme Support
 
-## New Version Feature and Changes in v6.0
-* Source 2 updated with options to select the quality: Auto promotion of other quality if select not available.
-* Source 4 updated with new server: Having low size files to download.
-* Added section in settings to show some info about sources.
-* Added Announcement section added for providing info to user incase require.
-* FFMPEG libs interation for downloading hls files.
-* Option for selecting to delete anime episode file stored in disk storage.
-* Changed start of last watching anime from anime name to epiosde.
-* GUI changes in Anime DL panel.
+##Light Theme
+![screenshot](images/screenshot_light.png "screenshot")
+
+##Dark Theme
+![screenshot](images/screenshot_dark.png "screenshot")
+
+## New Version Feature and Changes in v7.0
+* Fully updated GUI.
+* Added Light and Dark Theme support.
+* New icon designs
+* Added new Source as "Source 5" with highspeed links.(Almost all episode with 1080p low size)
+* Mouse Over shows Hint about button. You can also disable this in settings.
+* Next or Previous Episode play option added in Player.(Once you start epiosde of any anime it loads the all epiosde to player playlist. After that you can do other things in app).
 
 ## Feature
 * Both Linux and Windows supported
@@ -38,6 +44,14 @@ Steaming and Downloading animes becomes easy.
 * Added Functionality(App) - Option to select number of episodes to download in Anime Panel.
 * Improvement to error handling.
 * Source 2 fixed for streaming and downlaoding. Now having both subbed and dubbed anime with highspeed links.
+* Source 2 updated with options to select the quality: Auto promotion of other quality if select not available.
+* Source 4 updated with new server: Having low size files to download.
+* Added section in settings to show some info about sources.
+* Added Announcement section added for providing info to user incase require.
+* FFMPEG libs interation for downloading hls files.
+* Option for selecting to delete anime episode file stored in disk storage.
+* Changed start of last watching anime from anime name to epiosde.
+* GUI changes in Anime DL panel.
 * and many more
 
 ## Note:-
@@ -45,7 +59,6 @@ Steaming and Downloading animes becomes easy.
 * I want make this app to reach as many as people as possible please help me with that as i don't know any other platform to share this app.
 * For any issue feel free to email me.(Email in about of application)
 * Due to some issue with VLC libs Streaming nto working from source 1, However downloading working fine.
-* Source 4 server is down. It will work when the server bacsk again.
 
 Download Link:- Please see the released section.<br>
 Alternative Download Links:- http://a.animedlweb.ga/
