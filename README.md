@@ -1,12 +1,13 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
-####Latest Version: v7.0
-#####Modern GUI
+
+###Latest Version: v7.0
+####Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
-#####Light and Dark Theme Support
+####Light and Dark Theme Support
 
 ##Light Theme
 ![screenshot](images/screenshot_light.png "screenshot")
