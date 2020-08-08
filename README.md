@@ -15,13 +15,10 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
-## New Version Feature and Changes in v7.0
-* Fully updated GUI.
-* Added Light and Dark Theme support.
-* New icon designs
-* Added new Source as "Source 5" with highspeed links.(Almost all episode with 1080p low size)
-* Mouse Over shows Hint about button. You can also disable this in settings.
-* Next or Previous Episode play option added in Player.(Once you start epiosde of any anime it loads the all epiosde to player playlist. After that you can do other things in app).
+## New Version Feature and Changes in v7.1
+* New source 6 added with good quality a
+* Play directly downloaded files from download panel.
+* Right Click menu added in download panel for play, open folder location extra.
 
 ## Feature
 * Both Linux and Windows supported
@@ -53,6 +50,12 @@ Steaming and Downloading animes becomes easy.
 * Option for selecting to delete anime episode file stored in disk storage.
 * Changed start of last watching anime from anime name to epiosde.
 * GUI changes in Anime DL panel.
+* Fully updated GUI.
+* Added Light and Dark Theme support.
+* New icon designs
+* Added new Source as "Source 5" with highspeed links.(Almost all episode with 1080p low size)
+* Mouse Over shows Hint about button. You can also disable this in settings.
+* Next or Previous Episode play option added in Player.(Once you start epiosde of any anime it loads the all epiosde to player playlist. After that you can do other things in app).
 * and many more
 
 ## Note:-
