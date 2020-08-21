@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-### Latest Version: v7.0
+###Latest Version: v7.2 build 0001
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -15,10 +15,11 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
-## New Version Feature and Changes in v7.1
-* New source 6 added with good quality a
-* Play directly downloaded files from download panel.
-* Right Click menu added in download panel for play, open folder location extra.
+## New Version Feature and Changes in v7.2
+* All sources refreshed.
+* Source 5 disabled due to technical issue, will be back in future.
+* Added quality select option under source 3.
+* Bug fixed.
 
 ## Feature
 * Both Linux and Windows supported
@@ -56,6 +57,9 @@ Steaming and Downloading animes becomes easy.
 * Added new Source as "Source 5" with highspeed links.(Almost all episode with 1080p low size)
 * Mouse Over shows Hint about button. You can also disable this in settings.
 * Next or Previous Episode play option added in Player.(Once you start epiosde of any anime it loads the all epiosde to player playlist. After that you can do other things in app).
+* New source 6 added with good quality.
+* Play directly downloaded files from download panel.
+* Right Click menu added in download panel for play, open folder location extra.
 * and many more
 
 ## Note:-
