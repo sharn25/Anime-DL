@@ -15,6 +15,12 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
+## New Version Feature and Changes in v7.4 build 0002
+* Fixed Source 4, Now have good quality anime with low size.
+* New Source 7 added. However, having limited number of anime.
+* Now Last watched also updates when anime starts from download panel.
+* Bug fixed.
+
 ## New Version Feature and Changes in v7.3 build 0001
 * New source updated in place of source 5.
 * All sources refreshed with high speed links.
@@ -91,7 +97,7 @@ Discord Server Link:- https://discord.gg/Ee3fegN
 	 Set the VLCLibs path in setting to installed VLC player
 	 or
 	 Download the [VLCLibs.zip] from below link and place the VLCLibs folder in same location as jar file.
-		https://archive.org/details/VLCLibs
+		https://archive.org/details/vlclibs-3.0.11
 		Note: For 32 bit java please select 32 bit VLC libs and for 64 bit java please select VLC libs.
 	-FFMPEG Libs for downloading
 	Set the ffmpeg libs path in setting to location where the ffmpeg.exe file is present
