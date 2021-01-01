@@ -15,6 +15,9 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
+## New Version Feature and Changes in v7.5 build 0007
+* Fixed Error while clicking download All button.
+
 ## New Version Feature and Changes in v7.5 build 0006
 * Replaced Source 3 with new one.
 * All sources Refreshed.
