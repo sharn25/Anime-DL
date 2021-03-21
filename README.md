@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-###Latest Version: v7.5 build 0006
+###Latest Version: v7.6 build 0001
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -14,6 +14,10 @@ Steaming and Downloading animes becomes easy.
 
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
+
+## New Version Feature and Changes in v7.6 build 0001
+* Delete button support added for deleteing downloaded episodes
+* Updated all soruces.
 
 ## New Version Feature and Changes in v7.5 build 0007
 * Fixed Error while clicking download All button.
