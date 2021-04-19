@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-###Latest Version: v7.7 build 0001
+###Latest Version: v7.8 build 0001
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -14,6 +14,10 @@ Steaming and Downloading animes becomes easy.
 
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
+
+## New Version Feature and Changes in v7.8 build 0001
+* Added new source.
+* Schedule tab added for track of Anime per week day.
 
 ## New Version Feature and Changes in v7.7 build 0001
 * Added Spanish subtitle source.
@@ -103,9 +107,9 @@ Steaming and Downloading animes becomes easy.
 * Due to some issue with VLC libs Streaming nto working from source 1, However downloading working fine.
 
 Download Link:- Please see the released section.<br>
-Alternative Download Links:- http://a.animedlweb.ga/
+Alternative Download Links:- http://animedl.atwebpages.com/
 
-PC version Link:- http://a.animedlweb.ga/
+PC and Android version Link:- http://animedl.atwebpages.com/
 
 Discord Server Link:- https://discord.gg/Ee3fegN
 
