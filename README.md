@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-###Latest Version: v7.8 build 0001
+###Latest Version: v8.1 build 0036
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -15,6 +15,23 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
+## New Verison Feature and Changes in v8.1 build 0036
+* Linux Support : Beta
+* Offline Anime Box : All your Downloaded animes in one place.(For future downloaded animes)
+* Scheduled Anime : WeekDay wise upcoming anime list.
+* External Player : External VLC player support.
+* Double click to browse animes.
+* Internal Player : "Esc" Key to exit fullscreen.
+
+## New Version Feature and Changes in v8.0 build 0012
+* Added support for Next and Previous Episode button in Offline player
+
+## New Version Feature and Changes in v8.0 build 0012
+* List all your downloaded anime in one location for Offline Panel
+* Easy browse your local downloaded anime.
+* Select your downloaded anime and play episodes direct from one place.
+
+
 ## New Version Feature and Changes in v7.8 build 0001
 * Added new source.
 * Schedule tab added for track of Anime per week day.
@@ -27,7 +44,7 @@ Steaming and Downloading animes becomes easy.
 * Updated all soruces.
 
 ## New Version Feature and Changes in v7.5 build 0007
-* Fixed Error while clicking download All button.
+* Fixed Error while doing download All anime operation
 
 ## New Version Feature and Changes in v7.5 build 0006
 * Replaced Source 3 with new one.
@@ -59,7 +76,7 @@ Steaming and Downloading animes becomes easy.
 * Added quality select option under source 3.
 * Bug fixed.
 
-## Feature
+## Earlier Feature
 * Both Linux and Windows supported
 * Auto check for update
 * No installation require works with java
@@ -102,40 +119,50 @@ Steaming and Downloading animes becomes easy.
 
 ## Note:-
 * If you have any suggestion or new feature idea feel free to contact me.
-* I want make this app to reach as many as people as possible please help me with that as i don't know any other platform to share this app.
 * For any issue feel free to email me.(Email in about of application)
 * Due to some issue with VLC libs Streaming nto working from source 1, However downloading working fine.
 
-Download Link:- Please see the released section.<br>
-Alternative Download Links:- http://animedl.atwebpages.com/
+Download Link:- Please see the released section.
+Alternative Download Links:- http://a.animedlweb.ga/
 
-PC and Android version Link:- http://animedl.atwebpages.com/
+PC version Link:- http://a.animedlweb.ga/
 
 Discord Server Link:- https://discord.gg/Ee3fegN
 
 ## Requirements:
-    -Internet
-    -Java 8 or higher installed.
-    -VLC Player Libs(For Streaming)
+### Windows
+    - Internet
+    - Java 8 or higher installed.
+    - VLC Player Libs(For Streaming)
 	 Set the VLCLibs path in setting to installed VLC player
 	 or
 	 Download the [VLCLibs.zip] from below link and place the VLCLibs folder in same location as jar file.
 		https://archive.org/details/vlclibs-3.0.11
 		Note: For 32 bit java please select 32 bit VLC libs and for 64 bit java please select VLC libs.
-	-FFMPEG Libs for downloading
+	- FFMPEG Libs for downloading
 	Set the ffmpeg libs path in setting to location where the ffmpeg.exe file is present
 	 or
 	 Download the [ffmpeg.zip] from below link and place the ffmpeg folder in same location as jar file or select the location where the files has been extracted.
 		https://archive.org/details/ffmpeg_202006
-    -For IDMan to work - add path of idman folder to window 'PATH' See below steps:
+    - For IDMan and external player to work - add path of idman and vlc folder to window 'PATH' See below steps:
  	 "C:\Program Files (x86)\Internet Download Manager"
+	 "C:\Program Files (x86)\VLCPlayer"
   	 or
-  	"Your Internet download manager installation path"
+  	"Your Internet download manager installation or vlc player path"
 	
- 	 Steps as Below:
-  	--Go to Computers--Properties--Advanced System Settings--Environment Variables--
+ 	 * Steps as Below:
+		--Go to Computers--Properties--Advanced System Settings--Environment Variables--
  	 in system Variables
- 	 double click "Path" and add your IDMAN installation path to Variables Value Editbox
-  	Press Enter.
+ 	 -- Double click "Path"
+	 -- Add your IDMAN and then vlcplayer installation path to Variables Value
+	 -- Press Enter.
+
+### Linux
+	- Internet
+	- Java 8 or higherinstalled.
+	- Install following packages
+		* vlc
+		* ffmpeg
+		* xdg-open
 	
-Start the application from bat file for windows users if jar file not starts.
+Start the application from bat file for windows users or sh for Linux users if jar file not starts.
