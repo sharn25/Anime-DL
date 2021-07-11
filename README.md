@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-###Latest Version: v8.1 build 0036
+###Latest Version: v8.2 build 0001
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -14,6 +14,9 @@ Steaming and Downloading animes becomes easy.
 
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
+
+## New Verison Feature and Changes in v8.2 build 0001
+* Fixed for all Sources
 
 ## New Verison Feature and Changes in v8.1 build 0036
 * Linux Support : Beta
