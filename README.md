@@ -15,8 +15,12 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
-## Sources
-animehd47, animemobile, gogoanime, gogo-stream, animepill, animeow, 4anime, tenshi, animefenix, genoanime
+## New Verison Feature and Changes in v8.4 build 0004
+* Working sources fixed.
+* Removed Non-Working sources.
+
+## New Verison Feature and Changes in v8.3 build 0001
+* Fixed for all Sources
 
 ## New Verison Feature and Changes in v8.2 build 0001
 * Fixed for all Sources
