@@ -1,7 +1,7 @@
 ![Banner](images/icon.png)<br>
 # Anime DL
 
-###Latest Version: v8.4 build 0004
+###Latest Version: v8.5 build 0000
 #### Modern GUI
 
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
@@ -14,6 +14,9 @@ Steaming and Downloading animes becomes easy.
 
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
+
+## New Verison Feature and Changes in v8.5 build 0000
+* MacOS support added.
 
 ## New Verison Feature and Changes in v8.4 build 0004
 * Working sources fixed.
@@ -130,7 +133,6 @@ Steaming and Downloading animes becomes easy.
 ## Note:-
 * If you have any suggestion or new feature idea feel free to contact me.
 * For any issue feel free to email me.(Email in about of application)
-* Due to some issue with VLC libs Streaming nto working from source 1, However downloading working fine.
 
 Download Link:- Please see the released section.
 Alternative Download Links:- http://a.animedlweb.ga/
@@ -153,7 +155,7 @@ Discord Server Link:- https://discord.gg/Ee3fegN
 	Set the ffmpeg libs path in setting to location where the ffmpeg.exe file is present
 	 or
 	 Download the [ffmpeg.zip] from below link and place the ffmpeg folder in same location as jar file or select the location where the files has been extracted.
-		https://archive.org/details/ffmpeg_202006
+			
     - For IDMan and external player to work - add path of idman and vlc folder to window 'PATH' See below steps:
  	 "C:\Program Files (x86)\Internet Download Manager"
 	 "C:\Program Files (x86)\VLCPlayer"
@@ -175,4 +177,11 @@ Discord Server Link:- https://discord.gg/Ee3fegN
 		* ffmpeg
 		* xdg-open
 	
+### Linux
+	- Internet
+	- Java 8 or higherinstalled.
+	- Install following packages
+		* vlc
+		* Download ffmpeg for Mac and map it in setting panel(https://www.osxexperts.net)
+
 Start the application from bat file for windows users or sh for Linux users if jar file not starts.
