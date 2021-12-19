@@ -177,7 +177,7 @@ Discord Server Link:- https://discord.gg/Ee3fegN
 		* ffmpeg
 		* xdg-open
 	
-### Linux
+### MAC
 	- Internet
 	- Java 8 or higherinstalled.
 	- Install following packages
