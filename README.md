@@ -15,6 +15,10 @@ Steaming and Downloading animes becomes easy.
 ## Dark Theme
 ![screenshot](images/screenshot_dark.png "screenshot")
 
+## New Version  Feature and Changes in v8.6 build 0000
+* Source 0,1 fixed.
+* Source 0,1: added support for selecting 360p, 480p, 720p, 1080p.
+
 ## New Verison Feature and Changes in v8.5 build 0000
 * MacOS support added.
 
